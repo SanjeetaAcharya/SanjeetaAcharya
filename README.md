@@ -39,8 +39,7 @@ My experience includes frontend & backend development, API integration, and real
 ## 📊 GitHub Stats
 
 ### 🔹 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjeetaAcharya&layout=compact&theme=tokyonight)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjeetaAcharya&layout=compact&theme=tokyonight&hide=jupyter%20notebook)
 ### 🔹 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanjeetaAcharya&show_icons=true&theme=tokyonight)
 
